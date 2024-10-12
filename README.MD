@@ -33,7 +33,7 @@ Antes de qualquer coisa, você precisa ter instalado o [`NPM & Node`](https://no
 Para começar, você precisa clonar o repositório da API. Abra seu terminal e execute o seguinte comando:
 
 ```sh
-git clone <URL do repositório>
+git clone git@github.com:Bruno-Nunes17/order-api.git
 cd <nome da pasta do repositório>
 ```
 **3 - Base de Dados**
